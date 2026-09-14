@@ -29,5 +29,5 @@ Kalkulasi logika bisnis yang diterapkan di pipeline data:
 ---
 
 * Link Dashboard : https://datastudio.google.com/s/voFRXdA5VIA
-* [![Video Final Task_Kimia Farma_Big Data Analytics_FarichaAsriDreamy](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=Iw4Dt4OFNxY)
+* [![Video Final Task_Kimia Farma_Big Data Analytics_FarichaAsriDreamy](https://img.youtube.com/?v=Iw4Dt4OFNxY.jpg)](https://www.youtube.com/watch?v=Iw4Dt4OFNxY)
 
