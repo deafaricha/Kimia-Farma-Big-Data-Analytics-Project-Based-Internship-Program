@@ -26,4 +26,8 @@ Kalkulasi logika bisnis yang diterapkan di pipeline data:
 * **Analisis Kinerja Provinsi:** Peta wilayah (*Geo-map*) dan *Bar Chart* untuk melihat *Top 10 Provinsi* dengan performa *Nett Sales* dan *Total Transaksi* tertinggi.
 * **Deteksi Anomali Operasional:** Tabel khusus *Top 5 Cabang* untuk melacak cabang dengan rating cabang tinggi namun rating transaksi rendah guna mengidentifikasi masalah kualitas layanan.
 
-* Link Dashboard : https://datastudio.google.com/s/voFRXdA5VIA 
+---
+
+* Link Dashboard : https://datastudio.google.com/s/voFRXdA5VIA
+* [![Video Final Task_Kimia Farma_Big Data Analytics_FarichaAsriDreamy](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=Iw4Dt4OFNxY)
+
