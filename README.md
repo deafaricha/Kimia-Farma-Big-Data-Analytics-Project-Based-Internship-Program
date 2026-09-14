@@ -1,5 +1,4 @@
 # Rakamin Academy x Kimia-Farma : Big Data Analytics (Project Based Virtual-Internship Program)
-
 # Kimia Farma Business Performance Analytics (2020–2023)
 
 ## Deskripsi Proyek
